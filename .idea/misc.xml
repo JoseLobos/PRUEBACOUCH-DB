@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/PRUEBACOUCH-DB/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/PRUEBACOUCH-DB/app/src/main/res/layout/agregar_agenda.xml" value="0.1" />
+        <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/PRUEBACOUCH-DB/app/src/main/res/menu/menu.xml" value="0.1" />
         <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/agenda_amigo/app/src/main/res/drawable-v24/ic_account.xml" value="0.1859375" />
         <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/agenda_amigo/app/src/main/res/drawable-v24/ic_add.xml" value="0.1859375" />
         <entry key="..\:/Users/Jose Lobos/AndroidStudioProjects/agenda_amigo/app/src/main/res/drawable-v24/ic_contacto.xml" value="0.1859375" />
